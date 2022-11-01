@@ -1,0 +1,27 @@
+{
+  "name": "p-hero-acc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon steaming.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahalam-dev/p-hero-acc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahalam-dev/p-hero-acc/issues"
+  },
+  "homepage": "https://github.com/shahalam-dev/p-hero-acc#readme",
+  "dependencies": {
+    "node": "^19.0.0",
+    "underscore": "^1.13.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
